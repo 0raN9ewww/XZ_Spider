@@ -1,0 +1,6 @@
+beautifulsoup4>=4.12
+colorama>=0.4
+markdownify>=1.2
+requests>=2.32
+selenium>=4.36
+tqdm>=4.67
